@@ -1,0 +1,17 @@
+body {
+    background-color: #148bfa;
+    font-family: Arial;
+    color: white;
+}
+
+h1 {
+    color: black;
+    background-color: rgb(255, 228, 78);
+    padding: 5px 29px;
+    display: table;
+    text-transform: capitalize;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
